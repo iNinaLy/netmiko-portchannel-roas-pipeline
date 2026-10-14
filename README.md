@@ -45,7 +45,7 @@ To solve this self-referential dependency (where the management session traverse
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Simulator:** GNS3 (v2.2.59) running on a KVM-enabled GNS3 VM
 - **Language:** Python 3.14
